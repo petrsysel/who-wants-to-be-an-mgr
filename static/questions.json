@@ -1,20 +1,524 @@
 [
     {
-        "question": "Kolik kol má tříkolka?",
+        "question": "Výzkum, který přistupuje ke zkoumaným jevům se snahou popsat je v jejich jedinečnosti, se zachycením jejich specifických rysů a který neověřuje předem stanovené hypotézy, je výzkumem:",
         "answers": [
-            "2",
-            "Všechny",
-            "_Odmocnina z devíti",
-            "5"
+            "_kvalitativním",
+            "aplikačním",
+            "kvantitativním",
+            "longitudinálním"
         ]
     },
     {
-        "question": "Kolik životů má kočka",
+        "question": "Zvolte, jaká je nejpravděpodobnější příčina popisovaných potíží a následný doporučovaný postup. Žákyně je ve 3. ročníku. Přestože měla všechny vnější podmínky a příležitost pro rozvoj čtení, má i přes zvýšení úsilí a intenzivní domácí přípravu ve čtení přetrvávající potíže - vynechává a zaměňuje ve stejných slovech písmena, stále čte pomalu a někdy i se slabým porozuměním. V ostatních předmětech má výsledky podobné jako ostatní spolužáci, pouze občas se ve výkonech projeví horší schopnost párového asociativního učení a snížená rychlost verbálního jmenování - např. v matematice při čtení číslic a jmenování určených řad číslovek. Učitelka zvažuje, že se znovu setká s rodiči, a dá podnět pro řešení obtíží dívky.",
         "answers": [
-            "_1",
-            "Záleží na tom, jestli otevřeš krabici",
-            "9",
-            "12"
+            "mentální retardace - učitelka doporučí návštěvu speciálně pedagogického centra",
+            "smyslové postižení - učitelka doporučí pokračovat ve vzdělávání na speciální škole pro žáky se smyslovým postižením",
+            "_specifická porucha učení - učitelka doporučí návštěvu pedagogicko-psychologické poradny",
+            "neurologické postižení - učitelka doporučí návštěvu odborného lékaře"
+        ]
+    },
+    {
+        "question": "Vyberte odpovídající označení programu sestaveného paní učitelkou. V rámci systematické práce se školní třídou si paní učitelka připravila program třídních setkávání zaměřený na předcházení nežádoucího sociálního vývoje v třídním kolektivu. S využitím různých aktivit určených pro všechny žáky byl program zaměřen na podporu zdravého životního stylu, harmonického vývoje osobnosti a na rozvoj pozitivních forem chování a pozitivního klimatu ve třídě. Jednalo se tak o",
+        "answers": [
+            "program specifické sekundární prevence",
+            "program specifické primární prevence",
+            "program terciární prevence",
+            "_program nespecifické primární prevence"
+        ]
+    },
+    {
+        "question": "Teorie kurikula je:",
+        "answers": [
+            "teorie učitelské profese",
+            "_teorie o obsahu vzdělávání",
+            "teorie sociálního prostoru vytvořeného ekonomickým a kulturním kapitálem",
+            "teorie reformního hnutí začátku 20. století"
+        ]
+    },
+    {
+        "question": "K následujícím obdobím tvořícím periodizaci lidského života přiřaďte autora, který ji vypracoval. Jedná se o předkonvenční období – konvenční období – postkonvenční období.",
+        "answers": [
+            "E. Erikson",
+            "J. Piaget",
+            "_L. Kohlberg",
+            "J. Bruner"
+        ]
+    },
+    {
+        "question": "Která z následujících odpovědí týkajících se charakteristik kognitivního vývoje v dospívání není typická pro tuto etapu?",
+        "answers": [
+            "schopnost myšlení o myšlení",
+            "schopnost systematicky prozkoumávat všechny kombinace, které by mohly vést k řešení problému",
+            "schopnost hypotetického myšlení",
+            "_všechny uvedené charakteristiky jsou typické"
+        ]
+    },
+    {
+        "question": "Která z následujících možností nepatří mezi obranné mechanismy ega?",
+        "answers": [
+            "_konkretizace",
+            "kompenzace",
+            "regrese",
+            "racionalizace"
+        ]
+    },
+    {
+        "question": "Co je podle S. Freuda typické pro období latence?",
+        "answers": [
+            "pocit slasti má zdroj v příjmu potravy",
+            "zdroj uspokojení je skrytý",
+            "příjemné pocity plynou ze vztahu k rodiči opačného pohlaví",
+            "_největší uspokojení spočívá v poznávání světa, tělesné slasti ustupují do pozadí"
+        ]
+    },
+    {
+        "question": "K následující situaci přiřaďte normu, ze které hodnocení vychází. Monika trpí lehkou mentální retardací. Své postižení si v rámci možností uvědomuje. Její rodina a kamarádi ji mají rádi. Monika si připadá milovaná a potřebná. Ve svém životě se cítí spokojená. Podle které normy můžeme Moniku označit za normální?",
+        "answers": [
+            "kulturní norma",
+            "_individuální norma",
+            "právní norma",
+            "statistická norma"
+        ]
+    },
+    {
+        "question": "Filozof, který ve svých spisech rozlišuje duši vegetativní, senzitivní a rozumovou, jimž odpovídají tři základní složky výchovy - výchova tělesná, mravní a rozumová, se jmenoval:",
+        "answers": [
+            "Platón",
+            "_Aristoteles",
+            "Sokrates",
+            "Quintilianus"
+        ]
+    },
+    {
+        "question": "Co rozumíte pod pojmem intencionalita ve výchově?",
+        "answers": [
+            "soustavnost",
+            "_záměrnost",
+            "svědomitost",
+            "organizovanost"
+        ]
+    },
+    {
+        "question": "Rotterova teorie místa kontroly předpokládá, že lidé s tzv. vnitřní kontrolou přisuzují své úspěchy i neúspěchy:",
+        "answers": [
+            "_svým schopnostem a své práci",
+            "své vlastní píli",
+            "instrumentální motivaci",
+            "vlivu situačních okolností"
+        ]
+    },
+    {
+        "question": "Snažíme-li se získat informace o třídě prostřednictvím pozorování, která z uvedených možností je důležitá? Musíme dávat pozor:",
+        "answers": [
+            "na vliv našeho očekávání na pozorované jevy",
+            "na změnu situace pod vlivem našeho pozorování, resp. naší přítomnosti",
+            "na chybnou interpretaci v důsledku nedostatku informací",
+            "_na všechny výše uvedené aspekty"
+        ]
+    },
+    {
+        "question": "Představitelem pojetí pedagogiky jako explorativní a explanatní teorie je:",
+        "answers": [
+            "G. A. Lindner",
+            "H. Kasíková",
+            "Ch. Vorlíček",
+            "_J. Průcha"
+        ]
+    },
+    {
+        "question": "Mezi hlavní pedeutologická témata nepatří:",
+        "answers": [
+            "_zjišťování a měření školních výkonů",
+            "zkoumání učitelova pojetí výuky",
+            "vývoj profesní dráhy učitelů",
+            "koncepce přípravného vzdělávání učitelů"
+        ]
+    },
+    {
+        "question": "Pedagogická disciplína, která studuje společné rysy a souvislosti výchovy probíhající za různých podmínek, vypracovává pedagogickou terminologii a tím usnadňuje dorozumění a spolupráci speciálních disciplín, vyjadřuje hlavní směry pedagogického bádání, jeho metody a interpretaci výsledků, se nazývá:",
+        "answers": [
+            "teorie výchovy",
+            "metodologie výchovy a vzdělávání",
+            "_obecná pedagogika",
+            "pedagogická prognostika"
+        ]
+    },
+    {
+        "question": "Které z následujících dětí po opakovaném, krátkodobém odloučení od matky v neznámém prostředí vykazuje jistý vztah k matce dle M. Ainsworthové?",
+        "answers": [
+            "po návratu matky se dítě kontaktu s matkou spíše vyhýbá",
+            "_po návratu matky dítě ihned vyhledává její blízkost a navazuje s ní kontakt",
+            "po návratu matky dítě matku vyhledává, ale současně jí dává najevo svou zlost",
+            "po návratu matky dítě vykazuje různé druhy chování: např. na dlouhou dobu 'zamrzne', jindy reaguje agresivně, jindy ambivalentně"
+        ]
+    },
+    {
+        "question": "Vyberte správnou odpověď - Co se vyučující nemohou dozvědět prostřednictvím sociometricko-ratingového dotazníku V. Hrabala?",
+        "answers": [
+            "_o tom, koho třída považuje za spravedlivého, spolehlivého, zábavného",
+            "o klimatu ve třídě ve sféře náklonnosti",
+            "o vztahu mezi vlivem a oblibou v dané třídě",
+            "o existenci neformálních podskupinek, v nichž se děti ve třídě kamarádí"
+        ]
+    },
+    {
+        "question": "Zvolte, o který typ učení se v popisované situaci jedná. Dívka měla možnost hrát si v mateřské škole s novou, dosud pro ni neznámou stavebnicí. Stavebnici si prohlíží a několikrát neúspěšně zkouší spojování jednotlivých částí. Hledá princip, na jakém mají být části spojovány. Po opakovaném neúspěchu snahu vzdá. Náhle, aniž by viditelně zkoušela jednotlivé možnosti, je jí jasné, jak stavebnice funguje.",
+        "answers": [
+            "_učení vhledem",
+            "sociální učení",
+            "učení identifikací",
+            "učení nápodobou"
+        ]
+    },
+    {
+        "question": "Ve věku 4-6 let přechází myšlení dítěte z úrovně symbolické na úroveň názornou. Která z charakteristik odpovídá pojmu názorné myšlení?",
+        "answers": [
+            "aby dítě bylo schopné přemýšlet o objektech, dějích či jejich vlastnostech, musí je mít k dispozici v daném místě a čase, nebo alespoň jejich obrázek",
+            "při přemýšlení o objektech, dějích či jejich vlastnostech se už dítě nespoléhá na symbolickou funkci, ale vrací se opět k používání senzomotorických schémat - musí s objekty prakticky zacházet",
+            "_dítě při myšlení zachází s objekty, ději či jejich vlastnostmi pomocí více či méně rozčleněných vjemů či představ a nikoli pomocí spojení myšlenkových kroků do jednotných systémů operací",
+            "dítě je schopné přemýšlet o těch objektech, dějích či jejich vlastnostech, které bezprostředně vnímá, a nikoli o těch, které si jen představuje"
+        ]
+    },
+    {
+        "question": "K realizátorům sociální pedagogiky patřil především:",
+        "answers": [
+            "_J. Korczak",
+            "G. A. Lindner",
+            "P. Barth",
+            "P. Natorp"
+        ]
+    },
+    {
+        "question": "Důsledná koncepce jednotného školství, formulovaná řadou školských zákonů, se začala prosazovat:",
+        "answers": [
+            "po r. 1918",
+            "po r. 1869",
+            "_po r. 1948",
+            "po r. 1989"
+        ]
+    },
+    {
+        "question": "Co znamená pojem citová ambivalence?",
+        "answers": [
+            "nevyrovnaný emoční projev ve vztahu k témuž objektu",
+            "emoční projev, kdy jedinec ve vztahu k témuž objektu prožívá zeslabené emoce",
+            "emoční projev, kdy jedinec ve vztahu k témuž objektu prožívá zesílené emoce",
+            "_stav, kdy jedinec ve vztahu k témuž objektu prožívá protikladné emoce"
+        ]
+    },
+    {
+        "question": "Teorie, zdůrazňující vrozenost a podceňující úlohu výchovy v životě člověka, je známa jako:",
+        "answers": [
+            "teorie empirismu",
+            "_teorie nativismu",
+            "teorie optimismu",
+            "teorie ostrakismu"
+        ]
+    },
+    {
+        "question": "Vývojová psychologie používá různé výzkumné přístupy. Přiřaďte k následujícímu popisu, o jaký typ výzkumu se jedná. Výzkum sleduje jednu skupinu jedinců po dlouhé časové období. Zaměřuje se na všechny změny, kterými jedinci procházejí v jednotlivých věkových obdobích, a usuzuje z toho na obecné vývojové zákonitosti. Jedná se o:",
+        "answers": [
+            "prospektivní přístup",
+            "_longitudinální přístup",
+            "retrospektivní přístup",
+            "semilongitudinální přístup"
+        ]
+    },
+    {
+        "question": "Student 2. stupně základní školy sleduje před odchodem do školy historický dokument o antickém Řecku, který si náhodně naladil na vzdělávacím kanálu. Během hodiny dějepisu si vybírá z několika dostupných témat zpracovat referát právě na tuto historickou epochu. V dějepise obvykle dosahuje průměrných výsledků, během hodiny není příliš aktivní a prohlašuje, že jej předmět nebaví. Kterou psychologickou teorií nebo kterým pojmem by bylo možné z dostupných informací vysvětlit pravděpodobnou příčinu jeho chování?",
+        "answers": [
+            "vnitřní motivace",
+            "_priming",
+            "aktivační teorie",
+            "observační učení"
+        ]
+    },
+    {
+        "question": "Jméno Přemysla Pittra, jehož zásluhou byl v Praze otevřen tzv. Milíčův dům, je spojeno zejména s:",
+        "answers": [
+            "_výchovou, vzděláváním a ochranou dětí žijících ve špatných sociálních podmínkách",
+            "prvními alternativními školami na území bývalého Československa",
+            "činností v mezinárodních organizacích, zabývajících se pedagogickým výzkumem",
+            "aktivitami na obnovené české univerzitě po r. 1882"
+        ]
+    },
+    {
+        "question": "Proces sociálních a kulturních změn, které nastávají v důsledku kontaktu různých kultur (jedna kultura přejímá prvky z jiné kultury a tím se také sama do jisté míry mění) se nazývá:",
+        "answers": [
+            "enkulturace",
+            "subkulturace",
+            "asimilace",
+            "_akulturace"
+        ]
+    },
+    {
+        "question": "Učitelka se třídou probírá nové učivo. Po několika hodinách chce ověřit, nakolik žáci dosud probíranou látku zvládli. Je jí jasné, že žáci učivo dosud nemají příliš upevněné. Váhá, zda pro průběžné ověření použít ústní zkoušení několika vybraných žáků, nebo písemný test, nebo jinou formu ověření. Který z následujících postupů a jeho psychologických zdůvodnění považujete za nejvhodnější?",
+        "answers": [
+            "_Učitelka by měla zadat písemný test, protože u ústního zkoušení neupevněné látky hrozí sociální inhibice — tedy zhoršení výkonu při prezentaci před třídou, která je publikem.",
+            "Učitelka by měla použít ústní zkoušení nejslabších žáků, aby zjistila, zda právě oni látku zvládli. Na základě principu inference předpokládá, že ostatní žáci, kteří podávají obvykle lepší výkony, budou i v tomto úkolu podávat stejné či lepší výkony než nejslabší žáci.",
+            "Učitelka by měla použít ústní zkoušení žáků jakékoliv úrovně schopnosti. Jejich výkony před třídou budou vysoké, protože dojde k sociální facilitaci.",
+            "Učitelka by měla dát žákům na výběr, zda chtějí projít ústním zkoušením, nebo písemným testem, aby posílila jejich vnitřní motivaci a zodpovědnost za učení."
+        ]
+    },
+    {
+        "question": "Filozof a pedagog, který založil svoje pojetí pedagogiky na tzv. praktické filozofii (etice, pomáhá nám určit výchovné cíle) a na psychologii (analyzuje výchovné metody), se jmenoval:",
+        "answers": [
+            "I. Kant",
+            "J. H. Pestalozzi",
+            "F. Fröbel",
+            "_J. F. Herbart"
+        ]
+    },
+    {
+        "question": "Dítě v první třídě se dívá na svého spolužáka, jak leze na strom. O který z následujících druhů učení se jedná?",
+        "answers": [
+            "senzomotorické",
+            "učení poznatkům",
+            "učení metodám řešení",
+            "_sociální učení"
+        ]
+    },
+    {
+        "question": "Student nechal přípravu na test na poslední chvíli a učil se přes noc. Ráno v den testu byl stále ještě částečně ve stresu, ale přesto v něm prospěl. Na základě kterého psychologického principu by mohl učitel v dané situaci namítat, že tento způsob učení není dlouhodobě efektivní a je třeba se učit s časovým předstihem před zkouškovou situací?",
+        "answers": [
+            "_křivky a průběhu zapomínání",
+            "operantního podmiňování",
+            "teorie optimální stimulace",
+            "kapacity dlouhodobé paměti"
+        ]
+    },
+    {
+        "question": "Orgán školy, který dle školského zákona č. 561/2004 Sb. schvaluje výroční zprávu o činnosti školy, školní řád a pravidla pro hodnocení vzdělávacích výsledků žáků a vyjadřuje se ke vzdělávacím programům a jejich uskutečňování, se jmenuje:",
+        "answers": [
+            "klasifikační rada",
+            "sdružení rodičů a přátel školy",
+            "školská samospráva",
+            "_školská rada"
+        ]
+    },
+    {
+        "question": "Učitel, který se zajímá spíše o vyučovaný předmět, dokáže získat žáky pro svůj obor, má zálibu v teorii a bývá obvykle i dobrým didaktikem, se nazývá:",
+        "answers": [
+            "paidotrop",
+            "pedeutolog",
+            "logoped",
+            "_logotrop"
+        ]
+    },
+    {
+        "question": "Důraz na naplňování křesťanských idejí, apelování na srdce a cit proti jednostrannému intelektualismu, hlásání askeze, odmítání zábavy a častý sklon k mysticismu, je hlavní myšlenkou:",
+        "answers": [
+            "racionalismu",
+            "pozitivismu",
+            "_pietismu",
+            "scholastiky"
+        ]
+    },
+    {
+        "question": "Vyberte správnou odpověď. Které složky postoje rozeznáváme?",
+        "answers": [
+            "percepční, kognitivní a motorickou",
+            "_kognitivní, afektivní a konativní",
+            "tělesnou, duševní a osobnostně-sociální",
+            "pozitivní, negativní a ambivalentní"
+        ]
+    },
+    {
+        "question": "Příkladem názorného myšlení ve věku 4-6 let je chování dětí v pokusu s přeléváním korálků — dítě tvrdí, že jich přibylo, nebo ubylo. Která z následujících charakteristik vysvětluje povahu myšlení dítěte?",
+        "answers": [
+            "dítě si není schopné představit, že můžeme korálky přesypat zpátky",
+            "dítě si nevšimlo, že jsme nic nepřidali, ani neubrali",
+            "_dítě s jednotlivými vjemy a představami (identity, zvratnosti, rozdílné výšky či šířky) není schopné zacházet jako s myšlenými transformacemi a současně",
+            "dítě není schopné vnímat nejdříve to, že hladina korálků je vyšší, a pak to, že je sklenice užší"
+        ]
+    },
+    {
+        "question": "Disciplína, která se zabývá sociálními aspekty výchovy a její úlohou v procesech společenské reprodukce, pojednává o místě a funkci výchovy ve společnosti, v dané kultuře, o vztazích mezi výchovou, sociální strukturou a sociální mobilitou, o vztazích objektů a subjektů výchovy a o struktuře a funkci výchovných institucí, se jmenuje:",
+        "answers": [
+            "sociální pedagogika",
+            "_sociologie výchovy",
+            "teorie sociální výchovy",
+            "interkulturní výchova"
+        ]
+    },
+    {
+        "question": "V jakém roce byly zřízeny první učitelské ústavy?",
+        "answers": [
+            "1918",
+            "_1869",
+            "1945",
+            "1794"
+        ]
+    },
+    {
+        "question": "Mezi metody sociálně-výchovné činnosti nepatří metoda:",
+        "answers": [
+            "situační",
+            "režimová",
+            "_mediální",
+            "animace"
+        ]
+    },
+    {
+        "question": "Jaký je význam pojmu socio-kulturní handicap? Jedná se o:",
+        "answers": [
+            "původ člověka z rodiny s nízkým ekonomickým kapitálem",
+            "předsudek vůči lidem s nižším sociálním původem, který způsobuje jejich následné selhávání",
+            "_znevýhodnění v důsledku rodinného a komunitního zázemí, které se liší od majoritní společnosti",
+            "neschopnost člověka osvojit si sociální normy a kulturní hodnoty"
+        ]
+    },
+    {
+        "question": "Co je podle Sigmunda Freuda typické pro období falické?",
+        "answers": [
+            "_slast ze vztahu k rodiči opačného pohlaví",
+            "největší uspokojení spočívá v poznávání světa, tělesné slasti ustupují do pozadí",
+            "slast je vázána výhradně na pohlavní orgány a na sexuální chování",
+            "pocit slasti má zdroj v příjmu potravy"
+        ]
+    },
+    {
+        "question": "Uplatnění ve vrstevnické skupině je ovlivněno žákovou schopností emočního porozumění. Která schopnost emočního porozumění je charakteristická pro dítě mladšího školního věku?",
+        "answers": [
+            "prožívané pocity či motivy rozlišuje od vnějších projevů chování",
+            "_pocity či motivy je možné skrývat před druhými (nikoli před sebou samým)",
+            "vnější projevy chování jsou přímým projevem prožívaných pocitů či motivů",
+            "disponuje již všemi z výše uvedených schopností porozumění"
+        ]
+    },
+    {
+        "question": "Označte jev, který vystihuje popisovanou situaci. Z blíže nespecifikovaného důvodu je učitel podprůměrně prospívajícího Ondry přesvědčen, že mu různé okolnosti dosud neumožnily projevit v hodinách matematiky svůj potenciál. V průběhu školního roku se na rozdíl od ostatních podprůměrně prospívajících žáků Ondra ve svých výkonech opravdu výrazně zlepšil a učitel si tak potvrdil své přesvědčení o nadprůměrných rozumových dispozicích daného žáka. Aniž by si své chování vůči Ondrovi učitel plně uvědomoval, všimli si však studenti na hospitacích, že se učitel k Ondrovi choval jinak než k ostatním žákům — často mu věnoval více pozornosti, vyvolával ho a chválil. Zlepšení výkonu tak můžeme připsat fenoménu",
+        "answers": [
+            "efekt Zeigarnikové",
+            "_Pygmalion efekt",
+            "Ringelmannův efekt",
+            "Flynnův efekt"
+        ]
+    },
+    {
+        "question": "Vedle verbálního sdělení jsou v komunikaci důležité také neverbální projevy. Která z následujících možností obsahuje chybné přiřazení typu projevu a jeho označení?",
+        "answers": [
+            "pootočení těla od člověka, s nímž právě hovoříme = posturika, kinezika",
+            "_hovořící osoba používá gesta rukou ke zdůraznění obsahu řeči = haptika",
+            "nadzvednutí obočí = mimika",
+            "posměšný tón věty = paralingvistika"
+        ]
+    },
+    {
+        "question": "Autorem spisu Škola a společnost, v němž je cíl výchovy chápán jako příprava pro život a ve kterém se objevuje požadavek spojení školy se životem, byl:",
+        "answers": [
+            "R. Steiner",
+            "_J. Dewey",
+            "G. A. Lindner",
+            "T. G. Masaryk"
+        ]
+    },
+    {
+        "question": "Učitel musí rozumět tzv. kauzálním atribucím, aby pochopil jednání svých žáků. Zvolte správnou odpověď k rozdílům mezi kauzálními atribucemi, které jedinci používají k vysvětlení chování druhých lidí a chování sebe sama.",
+        "answers": [
+            "pozitivní chování druhých lidí přičítáme obvykle dispozičním příčinám, zatímco své vlastní pozitivní chování vysvětlujeme situačními příčinami",
+            "v případě neúspěšného chování druhých lidí přeceňujeme situační příčiny tohoto chování, zatímco u sebe sama častěji používáme dispoziční příčiny",
+            "negativní chování druhých i naše vlastní vysvětlujeme častěji dispozičními příčinami a opomíjíme situační příčiny",
+            "_neúspěšné chování sebe sama vysvětlujeme spíše situačními příčinami, zatímco negativně hodnocené chování druhých lidí máme tendenci přičítat dispozičním příčinám"
+        ]
+    },
+    {
+        "question": "Názor, že cílem myšlení není poznání, ale schopnost optimálně regulovat své chování a hledat správné řešení problémových situací, je jednou z myšlenek:",
+        "answers": [
+            "existencialismu",
+            "_instrumentalismu",
+            "duchovnědné pedagogiky",
+            "dynamické pedagogiky"
+        ]
+    },
+    {
+        "question": "Vývojová psychologie používá různé výzkumné přístupy. Přiřaďte k následujícímu popisu, o jaký typ výzkumu se jedná. Výzkum jednorázově pracuje s několika skupinami různého věku. Prostřednictvím obdobných úkolů mapuje odlišné naplňování kritérií v různých věkových skupinách a usuzuje z toho na obecnější vývojové posuny. Jedná se o:",
+        "answers": [
+            "_příčný přístup",
+            "longitudinální přístup",
+            "retrospektivní přístup",
+            "prospektivní přístup"
+        ]
+    },
+    {
+        "question": "Jaké typy hodnotících norem učitelka použila při hodnocení písemné práce? Ve čtvrtletní písemce z anglického jazyka učitelka hodnotila výkon třemi známkami. Základní známka odpovídala počtu chyb, tedy např. 0-1 chyba = známka výborně, 2-3 chyby = známka chvalitebně atd. Písemnou práci zadávala ve stejné podobě ve dvou paralelních třídách. Byla si vědoma, že jedna ze tříd je v angličtině zdatnější. Proto výkony hodnotila ještě doplňkovou známkou, která vypovídala o porovnání výkonu žáka s ostatními v konkrétní třídě. Pokud patřil výkon k 1/5 nejlepších ve třídě, hodnotila ho známkou výborně; pokud patřil k 1/5 nejhorších, použila známku nedostatečně. Vedle toho ale považovala za důležité také informovat žáky o tom, jak kvalitní je jejich výkon vzhledem k potenciálu, který u nich vnímá. Pokud žákův výkon v maximální míře odpovídal jeho schopnostem, hodnotila to známkou výborně; pokud byl výkon naopak hluboce pod schopnostmi žáka, hodnotila to známkou nedostatečně.",
+        "answers": [
+            "Objektivní a subjektivní klasifikační norma",
+            "Kurikulární, statistická a kulturní norma",
+            "_Věcné, sociální a individuální norma",
+            "Číselná, poměrová a speciálně-vzdělávací norma"
+        ]
+    },
+    {
+        "question": "V batolecím a předškolním období se objevují tzv. verbální já, morální já (poslušnost), psychické (subjektivní) já. Která z následujících možností vyjadřuje správné pořadí, v němž se objevují?",
+        "answers": [
+            "verbální já se objevuje první, nejdříve po roce se objevuje psychické já, po dalším roce se objevuje morální já",
+            "všechna tři já se objevují zároveň",
+            "_verbální já a psychické já se objevují dříve než morální já",
+            "pořadí, v němž se jednotlivá já objevují, je ryze individuální"
+        ]
+    },
+    {
+        "question": "Uveďte, který druh motivace byl u Ondry pravděpodobně nejsilněji aktualizován. Učitel matematiky přichází do třídy a říká: „Dnešní hodina bude jiná než obvykle, budete pracovat na počítači. Na počítači se vám zobrazí čtvercová síť a vaším úkolem bude se dostat do protějšího rohu sítě dříve, než vám v tom počítač zabrání.“ První partie začíná. Ondra po chvíli prohrává, přerušuje kontakt s počítačem, prohlíží si výslednou pozici a potichu si opakuje „tahy“, ve kterých se pravděpodobně dopustil chyby. Pouští se znovu do hry. Partie se protahuje, na Ondrovi je vidět intenzivní soustředění. Po velkém úsilí partii opět prohrává. Znovu si opakuje úspěšné a neúspěšné tahy a pouští se do nové partie. Třetí partii konečně vyhrává, učitel ho chválí. Posléze učitel ukončuje hru ve třídě a vyzývá žáky, aby si připravili sešity. Na Ondrovi je vidět rozmrzelost, prosí učitele, zda si nemohou zahrát ještě jednu hru, chce si ověřit, zda opravdu přišel na správný postup.",
+        "answers": [
+            "sociální motivace",
+            "výkonová motivace",
+            "_poznávací motivace",
+            "flow motivace"
+        ]
+    },
+    {
+        "question": "ISCED je významným nástrojem ve srovnávací pedagogice, vypracovaný v UNESCO a závazný i pro Českou republiku. Co zkratka ISCED vyjadřuje?",
+        "answers": [
+            "jedná se o soubor indikátorů ve sféře vzdělávací politiky",
+            "_jedná se o Mezinárodní normu pro klasifikaci vzdělávání",
+            "jedná se o Mezinárodní asociaci pro hodnocení vzdělávacích výsledků",
+            "jedná se o dokument závazný pro evaluaci výsledků ve vzdělávání"
+        ]
+    },
+    {
+        "question": "Rozhodněte, které tvrzení o sociální facilitaci a inhibici není pravdivé.",
+        "answers": [
+            "_je-li člověk ve skupině s druhými lidmi, jeho výkony jsou vždy lepší než o samotě.",
+            "je-li člověk pozorován druhými lidmi, jeho výkony v dobře osvojených činnostech jsou vyšší.",
+            "vykonává-li člověk stejné činnosti jako ostatní ve skupině, jeho výkony tím jsou vždy ovlivněny.",
+            "vykonává-li každý člověk ve skupině stejnou aktivitu jako druzí, výkony všech se zřejmě zvýší."
+        ]
+    },
+    {
+        "question": "Které období ve vývoji československé pedagogiky nazýváme obdobím reformní pedagogiky?",
+        "answers": [
+            "_20. — 30. léta 20. století",
+            "40. — 50. léta 20. století",
+            "60. léta 20. století",
+            "období po r. 1989"
+        ]
+    },
+    {
+        "question": "K následujícím obdobím tvořícím periodizaci lidského života přiřaďte příslušného autora, který ji vypracoval. Akční období — Ikonické období — Symbolické období:",
+        "answers": [
+            "_J. Bruner",
+            "L. Kohlberg",
+            "E. Erikson",
+            "J. Piaget"
+        ]
+    },
+    {
+        "question": "Který postup ze strany učitele není příliš vhodný vůči žákovi s poruchami chování a vysokou impulzivitou v 7. ročníku běžné základní školy?",
+        "answers": [
+            "_učitel má na žáka stejné požadavky a očekávání jako na ostatní ve třídě; protože se u něj nestandardní chování objevuje častěji než u ostatních, bývá výrazně častěji trestán.",
+            "učitel žákovi opakovaně vysvětluje pravidla, kterými se řídí žáci ve třídě, vyzývá ho k přenosu pravidel do nových situací proto, aby zvýšil žákovo porozumění pravidlům.",
+            "učitel se vůči žákovi chová vstřícně, trpělivě, ale přitom důsledně; nestandardní chování nepřechází, ale ve vhodném okamžiku žáka vybízí k sebereflexi a hodnotí jej.",
+            "učitel podporuje třídu jako celek, aby žáci v ní vzájemně regulovali své chování, povzbuzovali se v dodržování pravidel a pomáhali si překonávat náročné situace, v kterých roste tendence k silným afektivním reakcím."
+        ]
+    },
+    {
+        "question": "Mezinárodní srovnávací testování znalostí a dovedností patnáctiletých žáků, zaměřené na oblast čtenářské, matematické a přírodovědné gramotnosti a na řešení problémů:",
+        "answers": [
+            "se v České republice systematicky provádí od r. 1990 a je garantováno MŠMT",
+            "se v České republice systematicky dosud neprovádí",
+            "realizuje od svého vzniku v roce 1996 společnost SCIO",
+            "_se uskutečňuje v rámci OECD od roku 2000 každé tři roky a za účasti České republiky"
         ]
     }
 ]
