@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Kolik kol má tříkolka?",
+        "answers": [
+            "2",
+            "Všechny",
+            "_Odmocnina z devíti",
+            "5"
+        ]
+    },
+    {
+        "question": "Kolik životů má kočka",
+        "answers": [
+            "_1",
+            "Záleží na tom, jestli otevřeš krabici",
+            "9",
+            "12"
+        ]
+    }
+]
